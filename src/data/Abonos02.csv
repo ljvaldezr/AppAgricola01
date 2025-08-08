@@ -1,0 +1,201 @@
+﻿ID;Empresa;Nombre_Comercial;Formula;Otros_Nutrientes;Cultivos_Principales;Tipo_Suelo;Precio_€-kg;¿Incompatible_mezcla?;Popularidad_1_10
+NPK022;SOY DE CAMPO;NPK 10-5-30;N: 10%, P2O5: 5%, K2O: 30%;NN;Olivar;Olivar;2.68;No;5
+NPK020;FERTINAGRO;NPK 15-5-30;N: 15%, P2O5: 5%, K2O: 30%;SO3: 2%;Cítricos;Fertirrigación;2.68;No;5
+NPK014;YARA;YaraMila 8-8-30;N: 8%, P2O5: 8%, K2O: 30%;SO3: 15%;Patata, remolacha;Tubérculos;1.1;No;5
+HYD001;HAIFA;Poly-Feed Drip;N: 12%, P2O5: 6%, K2O: 36%;Micronutrientes completos;Hidropónico;Sin suelo;1.65;No;5
+NPK013;FERTIBERIA;NPK 22-5-5;N: 22%, P2O5: 5%, K2O: 5%;SO3: 18%;Praderas;Praderas;1.1;No;5
+NPK024;NEVIAN;NPK 25-5-5;N: 25%, P2O5: 5%, K2O: 5%;SO3: 12%;Praderas intensivas;Praderas;1.2;No;5
+NPK021;FERTICAT;NPK Líquido 12-4-6;N: 12%, P2O5: 4%, K2O: 6%;NN;Fertirrigación;Fertirrigación;1.25;No;5
+NPK031;BIAGRO;NPK Orgánico 5-3-8;N: 5%, P2O5: 3%, K2O: 8%;MO: 35%;Agricultura ecológica;Ecológico;1.25;No;5
+NPK029;PLYMAG;NPK Algas 8-4-8;N: 8%, P2O5: 4%, K2O: 8%;Extracto algas;Premium foliar;Foliar;1.55;No;5
+CES001;COMPO;Blaukorn Césped;N: 20%, P2O5: 5%, K2O: 8%;Liberación 3 meses;Césped;Céspedes;1.425;No;5
+NPK028;MEDIFER;NPK 8-8-8 Líquido;N: 8%, P2O5: 8%, K2O: 8%;Micronutrientes;Hortícolas;Fertirrigación;1.325;No;5
+NPK005;YARA;YaraMila 20-5-10;N: 20%, P2O5: 5%, K2O: 10%;SO3: 15%, B, Fe;Cereales, praderas;Rico P;1.15;No;5
+NPK012;EUROCHEM;Nitrofoska 21-5-10;N: 21%, P2O5: 5%, K2O: 10%;SO3: 8%;Trigo, cebada;Cereales;1.1;No;5
+CES002;ICL;Sierrablen Plus;N: 22%, P2O5: 5%, K2O: 10%;Fe: 2%, liberación 5-6 meses;Césped profesional;Golf;1.85;No;5
+NPK033;ICL;Osmocote Pro 19-9-10;N: 19%, P2O5: 9%, K2O: 10%;Liberación 5-6 meses;Viveros;Sustratos;2.7;No;5
+NPK023;ARTAL;Flowal NPK 10-10-10;N: 10%, P2O5: 10%, K2O: 10%;Aminoácidos;Foliar;Foliar;1.75;No;5
+NPK032;JISA;NPK Organo-mineral;N: 8%, P2O5: 5%, K2O: 12%;MO: 25%;Hortícolas eco;Ecológico;1.35;No;5
+VIV002;COMPO;Multicote 6M;N: 18%, P2O5: 6%, K2O: 12%;Liberación 6 meses;Planta ornamental;Maceta;2.55;No;5
+NPK025;AGRAR;NPK 18-8-12;N: 18%, P2O5: 8%, K2O: 12%;SO3: 15%;Cereales;Equilibrado;1.2;No;5
+VIV001;ICL;Osmocote Exact;N: 15%, P2O5: 9%, K2O: 12%;Liberación 5-6 meses;Viveros;Contenedor;2.9;No;5
+NPK009;COMPO;Blaukorn 12-8-16;N: 12%, P2O5: 8%, K2O: 16%;MgO: 3%, SO3: 12%;Céspedes, jardín;Ornamental;1.2;No;5
+NPK034;HEROGRA;NPK 16-8-16;N: 16%, P2O5: 8%, K2O: 16%;SO3: 10%;Cereales;Universal;1.225;No;5
+HYD002;ICL;Peters Hydro;N: 16%, P2O5: 4%, K2O: 17%;Baja CE;Hidropónico;Agua blanda;2.4;No;5
+NPK030;COMPO;Blaukorn 14-7-17+2MgO;N: 14%, P2O5: 7%, K2O: 17%;MgO: 2%, micronutrientes;Ornamentales;Ornamental;1.375;No;5
+NPK007;EUROCHEM;Nitrofoska 12-12-17+2MgO;N: 12%, P2O5: 12%, K2O: 17%;MgO: 2%, SO3: 20%;Hortícolas, frutales;Deficiente Mg;1.225;No;5
+HYD003;YARA;Kristalon Hydro;N: 18%, P2O5: 8%, K2O: 18%;Equilibrado hidro;Hidropónico;Sustrato inerte;2.3;No;5
+NPK016;FERCOEX;NPK 15-5-20;N: 15%, P2O5: 5%, K2O: 20%;MgO: 2%, SO3: 15%;Frutales;Potasófilos;1.15;No;5
+NPK015;EUROCHEM;Nitrofoska 10-10-25;N: 10%, P2O5: 10%, K2O: 25%;SO3: 12%;Hortícolas;Hortícolas;1.1;No;5
+NPK026;FERTIBERIA;NPK 10-30-10;N: 10%, P2O5: 30%, K2O: 10%;SO3: 8%;Arranque cultivos;Arranque;1.325;No;8
+NPK018;SEMBRALIA;Solubgrow 10-50-10;N: 10%, P2O5: 50%, K2O: 10%;Micronutrientes;Arranque;Arranque;2.3;No;8
+NPK003;FERTIBERIA;Abono Azul 12-12-18;N: 12%, P2O5: 12%, K2O: 18%;MgO: 2%, SO3: 23%;Frutales, viña;Deficiente Mg;1.225;No;5
+NPK035;VIAFERTYSEM;NPK 12-24-12;N: 12%, P2O5: 24%, K2O: 12%;SO3: 8%;Siembra directa;Siembra;1.285;No;8
+NPK001;YARA;YaraMila 15-15-15;N: 15%, P2O5: 15%, K2O: 15%;SO3: 10%, micronutrientes;Universal, hortícolas;Uso universal;1.35;No;8
+NPK002;EUROCHEM;Nitrofoska 15-15-15;N: 15%, P2O5: 15%, K2O: 15%;SO3: 8%, B, Fe;Cereales, hortícolas;Equilibrado;1.425;No;8
+NPK017;YARA;YaraMila 16-16-16+3MgO;N: 16%, P2O5: 16%, K2O: 16%;MgO: 3%, SO3: 12%;Universal con Mg;Deficiente Mg;1.415;No;8
+NPK019;SQM;Qrop 18-18-18;N: 18%, P2O5: 18%, K2O: 18%;Micronutrientes;Fertirrigación;Técnico;1.55;No;8
+NPK010;HAIFA;Poly-Feed 19-19-19;N: 19%, P2O5: 19%, K2O: 19%;Micronutrientes;Fertirrigación;Fertirrigación;1.95;No;8
+NPK011;ICL;Peters 20-20-20;N: 20%, P2O5: 20%, K2O: 20%;Micronutrientes;Hortícolas técnicas;Hidropónico;2.125;No;8
+NPK027;EUROCHEM;Nitrofoska 6-20-12;N: 6%, P2O5: 20%, K2O: 12%;SO3: 12%;Siembra;Siembra;1.125;No;8
+NPK004;MIRAT;Complejo 8-15-15;N: 8%, P2O5: 15%, K2O: 15%;SO3: 6%;Cereales siembra;Rico N;1.11;No;8
+NPK006;YARA;YaraMila 8-24-8;N: 8%, P2O5: 24%, K2O: 8%;SO3: 6%, B, Fe;Siembra cereales;Pobre P;1.205;No;8
+NPK008;MIRAT;NPK 9-18-27;N: 9%, P2O5: 18%, K2O: 27%;SO3: 9%;Frutales, cítricos;Frutales;1.175;No;8
+ORG003;;Humus Líquido;Ácidos húmicos: 12%;Ácidos fúlvicos: 3%;Bioestimulante;Mejora CIC;0.335;No;4
+ORG004;SEMBRALIA;Leonardita Líquida;Ácidos húmicos: 15%;K2O: 3%;Mejora absorción;Estrés;0.375;No;4
+BIO002;FERVALLE;EXCALIBUR;Aminoácidos libres: 15%;N orgánico: 8%;Anti-estrés;Foliar;2.35;No;5
+BIO005;VALAGRO;Megafol;Aminoácidos: 24%;N: 3%, K2O: 5%;Anti-estrés;Foliar;2.8;No;5
+BIO004;ARTAL;Amino Concentrado;Aminoácidos: 25%;N: 5%;Estrés abiótico;Foliar;2.4;No;5
+B004;AGRI NOVA;Quantum B;B: 10%;Orgánico;Colza;Deficiente B;1.6;No;5
+B001;YARA;YaraVita Bortrac;B: 11%;Líquido;Colza, girasol;Foliar;6;No;5
+B003;SEMBRALIA;Boro Líquido;B: 15%;Etanolamina;Frutales;Foliar;5.5;No;5
+B002;FERTIBERIA;Ácido Bórico;B: 17%;Cristalino;Deficiencia B;Suelo/foliar;1.75;No;5
+ACT001;FERTINAGRO;Rhizobacter;Bacterias PGPR;Microorganismos;Activador raíz;Biológico;4;No;4
+BIO003;AGRONUT;LIFE GROS;Brasinosteroides;Auxinas, citoquininas;Desarrollo;Foliar;16;No;5
+CA002;FERTIBERIA;Cloruro Cálcico;Ca: 36%;Cl: 64%;Correctivo rápido;Deficiente Ca;0.725;No;5
+pH003;MINERAVI;Dolomita;CaCO3: 55%, MgCO3: 40%;NN;Ca + Mg;Ácidos deficiente Mg;0.115;Sí;6
+pH002;YEMACONSA;Caliza Molida;CaCO3: 95%;MgCO3: 3%;Encalado;Ácidos;0.085;Sí;6
+pH001;CALCINOR;Cal Viva;CaO: 90%;NN;Corrector pH;Ácidos;0.18;Sí;6
+CA001;YEMACONSA;Yeso Agrícola;CaSO4.2H2O;Ca: 23%, S: 18%;Mejora estructura;Sódicos;0.095;No;5
+CU001;COMPO;Fetrilon Cu;Cu: 15%;EDTA quelatado;Deficiencia Cu;pH alto;47.5;No;5
+CU003;ICL;Librel Cu;Cu: 15%;EDTA estable;Cereales;Alcalinos;47.5;No;5
+CU002;FERTIBERIA;Sulfato Cobre Pentahidratado;Cu: 25%;SO3: 13%;Correctivo;Suelo directo;2.85;No;5
+BIO001;PLYMAG;ECKLOMAR;Extracto algas;K2O: 12%, I, B naturales;Bioestimulante;Estrés;3.25;No;4
+ESP012;PLYMAG;Algas + Aminoácidos Premium;Extracto algas 30%;Aminoácidos 15%, K2O 8%;Bioestimulante premium;Foliar;4.2;No;4
+MIX002;ICL;Micromax Premium;Fe: 12%, Mn: 2.5%, Zn: 1%, Cu: 1%, B: 0.1%, Mo: 0.05%;Liberación controlada;Ornamentales;Sustratos;18.5;No;9
+FE006;ICL;Librel Fe;Fe: 13%;EDTA alta concentración;Correctivo rápido;pH 6-7;26;No;5
+MIX008;FERTINAGRO;Fertigoa Micro;Fe: 2%, Mn: 1%, Zn: 0.5%, B: 0.2%;Aminoácidos;Foliar premium;Foliar;16.5;No;9
+COR001;HEROGRA;Corrector Multinutriente;Fe: 3%, Mn: 2%, Zn: 1%;B: 0.5%, Mo: 0.1%;Correctivo;Deficiencias múltiples;18.5;No;9
+MIX007;SEMBRALIA;Mix Quelatado EDTA;Fe: 3%, Mn: 2%, Zn: 1%, Cu: 0.5%, B: 0.3%;EDTA puro;Preventivo;pH neutro;20.5;No;9
+MIX003;HAIFA;Haifa Micro Mix;Fe: 3%, Mn: 3%, Zn: 1.2%, Cu: 0.5%, B: 0.5%, Mo: 0.1%;EDTA solubles;Fertirrigación;Fertirrigación;20.5;No;9
+MIX005;ARTAL;Flowal Multi;Fe: 4%, Mn: 2%, Zn: 1%, B: 0.5%;Complejos orgánicos;Frutales;Foliar;15.5;No;9
+FE004;YARA;YaraVita Fertiactyl;Fe: 5%;DTPA quelato;Foliar frutales;Foliar;22.5;No;5
+MIX006;AGRI NOVA;Quantum Multi;Fe: 5%, Mn: 3%, Zn: 2%, Cu: 1%;Mezcla estable;Hortícolas;Universal;21;No;9
+FE001;SEMBRALIA;Quelato Hierro EDDHA 6%;Fe: 6%;EDDHA quelatado;Cítricos, frutales;Calizos pH alto;9.6;No;5
+FE002;MASSÓ;Sequestrene 138;Fe: 6%;EDDHA estable;Todos cultivos;Suelos calizos;10.5;No;5
+FE005;HAIFA;Haifa Fe-EDDHA;Fe: 6%;EDDHA puro;Fertirrigación;Suelos alcalinos;10.5;No;5
+FE007;ARTAL;Flowal Fe HEEDTA;Fe: 6%;HEEDTA quelato;Amplio rango pH;pH variable;10.5;No;5
+MIX004;YARA;YaraVita Gramitrel;Fe: 6%, Mn: 4%, Zn: 2%;Foliar cereales;Cereales;Foliar;20.5;No;9
+COR002;MASSÓ;Corrector Clorosis;Fe: 6%, N: 3%;EDDHA + aminoácidos;Clorosis;Calizos;11;No;9
+FE003;COMPO;Fetrilon Combi;Fe: 7.5%;EDTA quelatado;Hortícolas;pH neutro-ácido;23;No;5
+MIX001;COMPO;Fetrilon Combi 2;Fe: 7.5%, Mn: 3.2%, Zn: 0.7%;EDTA mezcla;Correctivo múltiple;Deficiencias múltiples;23;No;9
+FE008;AGRI NOVA;Quantum Fe Plus;Fe: 8%;Mezcla quelatos;Clorosis férrica;Calizos;23;No;5
+ORG005;FERTINAGRO;Ácidos Húmicos;Húmicos: 25%;Fúlvicos: 5%;Activador suelo;Degradados;0.625;No;5
+ESP004;ICL;Polysulphate;K2O: 14%, MgO: 6%, CaO: 17%, SO3: 48%;Multi-nutriente;Multi-deficiencias;Completo;0.19;Sí;6
+K014;BIAGRO;K Orgánico;K2O: 15%;MO: 40%;Agricultura ecológica;Ecológico;0.8;No;5
+ESP010;AGRI NOVA;Quantum SiK;K2O: 20%, SiO2: 15%;Silicio + Potasio;Resistencia;Estrés biótico;1.35;No;5
+K012;TESSENDERLO;KTS Thiosulfato;K2O: 25%;S: 17%;Fertirrigación S;Deficiente S;1;No;5
+K016;NEVIAN;Potasio Foliar;K2O: 25%;Aminoácidos: 5%;Foliar;Foliar;1;No;5
+K024;FERTICAT;K2S2O3 Líquido;K2O: 25%;S: 16%;Cultivos S;Fertirrigación;1;No;5
+K015;MEDIFER;K Líquido 30%;K2O: 30%;Líquido;Fertirrigación;Fertirrigación;1.35;No;5
+K019;ARTAL;Flowal K;K2O: 35%;Complejos orgánicos;Frutales foliar;Foliar;1.35;No;5
+K013;AGRI NOVA;Quantum K-Mg;K2O: 40%;MgO: 10%, S: 15%;Deficiencia Mg;Deficiente Mg;1.6;No;5
+K023;COMPO;K Liberación Controlada;K2O: 45%;Polímero 6 meses;Viveros;Sustratos;1.6;No;5
+K004;FERTIBERIA;Sulfato Potásico 50%;K2O: 50%;SO3: 18%;Frutales, hortícolas;Sensibles Cl;0.75;No;5
+K006;TESSENDERLO;K2SO4 Granular;K2O: 50%;SO3: 17%;Frutales;Calidad;0.75;No;5
+K011;FERTICAT;K2SO4 Soluble;K2O: 50%;S: 18%;Fertirrigación;Salinos;0.75;No;5
+K005;SQM;Sulfato Potásico SQM;K2O: 52%;S: 18%;Cítricos, viña;Clorurofóbicos;1.025;No;5
+K020;VIAFERTYSEM;Sulfato K 52%;K2O: 52%;S: 18%;Hortícolas;Salinos;1.025;No;5
+K025;TESSENDERLO;SOP Soluble;K2O: 52%;S: 18%;Cítricos fertirrig;Fertirrigación;1.025;No;5
+K017;MIRAT;K Arroz;K2O: 55%;Cl: 42%, Si: 2%;Arroz;Inundado;1.6;No;5
+K018;SEMBRALIA;K Cereales;K2O: 58%;Cl: 44%;Cereales invierno;Secano;1.6;No;5
+K001;EUROCHEM;Cloruro Potásico 60%;K2O: 60%;Cl: 47%;Cereales, extensivos;Baja salinidad;0.375;No;5
+K002;YARA;Muriate of Potash;K2O: 60%;Cl: 45%;Trigo, cebada;No salino;0.375;No;5
+K003;FERTIBERIA;KCl Granulado;K2O: 60%;Cl: 47%;Extensivos;Continental;0.375;No;5
+K021;AGRAR;Potasio Rojo;K2O: 62%;Cl: 45%;Cereales;Secano;1.6;No;5
+ACT002;SYMBORG;BlueN;Methylobacterium symbioticum;Fijador N atmosférico;Fijación N;Biológico;11.5;No;5
+MG001;AGROLEZA;Sulfato Magnesio Heptahidratado;MgO: 16%;SO3: 32%;Deficiencia Mg;Deficiente Mg;0.335;No;5
+MG002;TESSENDERLO;Kieserita;MgO: 27%;SO3: 22%;Correctivo Mg;Pobre Mg;0.24;No;5
+MN001;COMPO;Fetrilon Mn;Mn: 13%;EDTA quelatado;Cereales, soja;pH alto;17.5;No;9
+MN002;ICL;Librel Mn;Mn: 13%;EDTA estable;Deficiencia Mn;Alcalinos;17.5;No;9
+MN004;SEMBRALIA;Quelato Mn EDTA;Mn: 13%;EDTA puro;Hortícolas;Neutro-alcalino;17.5;No;9
+MN003;YARA;YaraVita Mn;Mn: 17%;Sulfato+quelato;Foliar cereales;Foliar;21.5;No;9
+MO002;SEMBRALIA;Molibdeno Líquido;Mo: 5%;Soluble;Foliar leguminosas;Foliar;21.5;No;5
+MO001;YARA;YaraVita Mo;Mo: 8%;Molibdato amónico;Leguminosas;Ácidos;21.5;No;5
+ORG002;BIAGRO;Compost Vegetal;N: 1.5%, P2O5: 0.8%, K2O: 1.2%;MO: 60%, C/N: 15;Agricultura ecológica;Ecológico;48;No;7
+ECO003;FERVALLE;Estiércol Compostado;N: 1.8%, P2O5: 1.2%, K2O: 2.5%;MO: 65%;Base orgánica;Mejora estructura;48;No;7
+P022;TESSENDERLO;APP Líquido;N: 10%, P2O5: 34%;Polifosfato;USA style;Inyección;0.75;No;9
+ESP001;TESSENDERLO;Nitrato Magnésico;N: 10.7%, MgO: 16%;Soluble;Fertirrigación;Fertirrigación;0.75;No;9
+P012;ICL;Polifosfato Amónico;N: 11%, P2O5: 37%;P soluble lento;Fertirrigación;Fertirrigación;0.75;No;9
+N023;THESSENDERLO;Thiosulfato Amónico;N: 12%;S: 26%;Fertirrigación;Fertirrigación;0.65;No;9
+P003;YARA;YaraMila MAP;N: 12%, P2O5: 61%;Soluble;Fertirrigación;Fertirrigación;0.6;No;9
+P004;HAIFA;Haifa MAP;N: 12%, P2O5: 61%;Soluble 100%;Tomate, pimiento;Hidropónico;0.6;No;9
+P005;ICL;Nova MAP;N: 12%, P2O5: 61%;Alta pureza;Hortícolas técnicas;Sin suelo;0.6;No;9
+P023;SQM;Ultrasol MAP;N: 12%, P2O5: 61%;Cristales finos;Fertirrigación;Técnico;0.6;No;9
+ESP007;FERTIBERIA;MAP con Zinc;N: 12%, P2O5: 61%, Zn: 1%;MAP + Zn;Maíz siembra;Deficiente Zn;0.6;No;9
+ECO002;JISA;Guano Certificado;N: 12%, P2O5: 8%, K2O: 2%;Orgánico natural;Ecológico;Ecológico;0.63;No;7
+K007;YARA;Nitrato Potásico YaraLiva;N: 13%, K2O: 46%;;Fertirrigación;Fertirrigación;0.78;No;7
+K008;HAIFA;Multi-K Nitrato;N: 13%, K2O: 46%;Soluble 100%;Tomate, pimiento;Hidropónico;0.78;No;7
+K009;ICL;Nova KNO3;N: 13%, K2O: 46%;Alta pureza;Hortícolas técnicas;Sin suelo;0.78;No;7
+K010;SQM;Ultrasol K Plus;N: 13%, K2O: 46%;Cristalino;Pepino, melón;Fertirrigación;0.78;No;7
+K022;FERTIBERIA;KNO3 Soluble;N: 13%, K2O: 46%;;Fertirrigación;Técnico;0.78;No;7
+ESP008;TESSENDERLO;Nitrato Potásico con B;N: 13%, K2O: 46%, B: 0.02%;KNO3 + Boro;Colza fertirrigación;Fertirrigación;0.78;No;7
+N015;YARA;YaraLiva CALCINIT;N: 15.5%;CaO: 26.5%;Tomate fertirrigación;Fertirrigación;0.6;No;9
+N016;HAIFA;Haifa Cal Prime;N: 15.5%;Ca: 19%;Hortícolas;Fertirrigación;0.6;No;9
+N017;ICL;Nova Calcium Nitrate;N: 15.5%;Ca: 18.8%;Pepino, melón;Hidropónico;0.6;No;9
+ESP002;SQM;Nitrato Sódico;N: 16%, Na: 26%;Chile salitre;Remolacha;Especial Na;0.56;No;9
+P006;YARA;YaraMila DAP;N: 18%, P2O5: 46%;;Cereales siembra;Neutro-alcalino;0.575;No;9
+P007;EUROCHEM;DAP Granulado;N: 18%, P2O5: 46%;;Trigo, cebada;pH alto;0.575;No;9
+P024;FERTIBERIA;DAP Premium;N: 18%, P2O5: 46%;Antiaglomerante;Maíz;Alcalino;0.575;No;9
+ORG001;FERVALLE;MAORVALLE;N: 2%, P2O5: 1%, K2O: 2%;MO: 50%;Mejora suelo;Pobres MO;0.6;No;7
+N025;ARTAL;Flowal N;N: 20%;Aminoácidos;Foliar especializado;Foliar;2.3;No;9
+ESP003;FERTIBERIA;Cianamida Cálcica;N: 20%, CaO: 55%;Desinfectante;Desinfección suelo;Patógenos;0.75;Sí;9
+N012;FERTIBERIA;Sulfato Amónico 21%;N: 21%;SO3: 60%;Arroz, acidófilos;Alcalinos;0.185;No;9
+N018;COMPO;Novatec Solub 21;N: 21%;Inhibidor nitrificación;Hortícolas técnicas;Fertirrigación;0.185;No;9
+N032;MIRAT;Sulfato Amónico Arroz;N: 21%;SO3: 60%, Zn: 0.5%;Arroz;Inundado;0.185;No;9
+N027;AGRI NOVA;Quantum N-S;N: 24%;S: 15%;Colza, cereales;Deficiente S;1.2;No;9
+ESP005;YARA;YaraMila Hydran;N: 24%, SO3: 22%;Inhibidor nitrificación;Zonas húmedas;Encharcamiento;1.35;No;9
+N026;PLYMAG;Protamino N;N: 25%;Aminoácidos: 15%;Cítricos;Foliar;2.6;No;9
+N013;EUROCHEM;Nitrosulfato Amónico 26%;N: 26%;SO3: 13%;Cereales;Neutro-alcalino;0.375;No;9
+N031;YARA;YaraBela TROPICOTE;N: 26%;CaO: 13%, MgO: 7%;Invernadero;Deficiente Ca-Mg;0.61;No;9
+ESP009;COMPO;Novatec Stabilized;N: 26%;DMPP inhibidor;Eficiencia N;Alta eficiencia;0.425;No;9
+N010;YARA;YaraBela CAN 27%;N: 27%;CaO: 4%;Hortícolas, frutales;Ácidos;0.355;No;9
+N011;MIRAT;NAC 27;N: 27%;CaO: 4%;Tomate, pimiento;Ácidos;0.355;No;9
+N034;VIAFERTYSEM;Nitrato Amónico Cal;N: 27%;CaO: 4%;Hortícolas;Ácidos;0.355;No;9
+N030;JISA;MOLEX NK;N: 3%, K2O: 5%;MO: 30%;Hortícolas ecológicas;Ecológico;0.65;No;7
+N019;FERTINAGRO;Fertigoa N30;N: 30%;Aminoácidos: 5%;Foliar hortícolas;Foliar;1.75;No;9
+N020;SEMBRALIA;N Líquido 30;N: 30%;Micronutrientes;Foliar;Foliar;1.15;No;9
+N014;FERCOEX;UAN 32;N: 32%;Líquido;Cereales, maíz;Todos;0.44;No;9
+N033;FERTICAT;ELAN 46 UAN;N: 32%;Líquido;Cereales;Foliar;0.44;No;9
+ESP006;YARA;YaraBela Axan Boron;N: 33%, B: 0.3%;Nitrato + Boro;Colza, girasol;Deficiente B;0.7;No;9
+N006;FERTIBERIA;Nitrato Amónico 33.5%;N: 33.5%;;Cereales, hortícolas;Ácido-neutro;0.6;No;9
+N007;YARA;YaraBela AXAN;N: 33.5%;;Cereales;Ácido-neutro;0.6;No;9
+N008;EUROCHEM;Nitrato Amónico 34.4%;N: 34.4%;;Cereales, maíz;Neutro;0.6;No;9
+N009;NEVIAN;Nitrato Amónico 34.5%;N: 34.5%;;Hortícolas;Ácido-neutro;0.6;No;9
+N021;ICL;Osmocote CRF N;N: 38%;Liberación 5-6 meses;Viveros;Sustratos;2.3;No;9
+ECO001;BIAGRO;NK Orgánico CAAE;N: 4%, K2O: 8%;MO: 45%, Certificado;Agricultura ecológica;Certificado eco;0.7;No;7
+N028;MEDIFER;N Concentrado;N: 40%;Líquido;Fertirrigación;Fertirrigación;1.5;No;9
+N005;DFGRUPO;Urea ESN;N: 44%;Liberación controlada;Frutales;Todos;0.42;No;9
+N022;SQM;Speedfol N;N: 45%;Urea foliar;Foliar cereales;Foliar;1.7;No;9
+N001;FERTIBERIA;Urea Perlada 46%;N: 46%;;Cereales, maíz, girasol;Neutro-alcalino;0.42;No;9
+N002;YARA;Urea UTECH 46%;N: 46%;Inhibidor ureasa;Cereales invierno;Neutro;0.42;No;9
+N003;EUROCHEM;Urea Granulada 46%;N: 46%;;Extensivos;Universal;0.42;No;9
+N004;AGRAR;Urea Premium 46%;N: 46%;Antiaglomerante;Cereales;Neutro-alcalino;0.42;No;9
+N035;HEROGRA;Urea Técnica;N: 46%;Alta pureza;Fertirrigación;Técnico;0.42;No;9
+N024;BIAGRO;Nitrógeno Orgánico;N: 8%;MO: 35%;Agricultura ecológica;Ecológico;0.8;No;9
+ESP011;BIAGRO;Micorrizas + NPK;N: 8%, P2O5: 5%, K2O: 12%;Micorrizas 2000 esp/g;Establecimiento;Plantación;1.5;No;7
+N029;NEVIAN;Amoníaco Líquido;N: 82%;NH3 anhidro;Extensivos;Inyección;0.725;No;9
+P015;BIAGRO;Fósforo Orgánico;P2O5: 12%;MO: 45%;Agricultura ecológica;Ecológico;0.68;No;7
+P001;FERTIBERIA;Superfosfato Simple 18%;P2O5: 18%;CaO: 20%, SO3: 12%;Frutales, cereales;Ácido-neutro;0.54;No;7
+P018;MIRAT;P Arroz;P2O5: 22%;Ca: 15%, Zn: 1%;Arroz;Inundado;1.1;No;7
+P014;ARTAL;Flowal P;P2O5: 25%;Complejos orgánicos;Cítricos;Foliar;1.35;No;7
+P019;NEVIAN;P Frutales;P2O5: 28%;Ca: 12%, Mg: 3%;Frutales hueso;Plantación;1.4;No;7
+P013;FERTINAGRO;Fertigoa P;P2O5: 30%;Aminoácidos: 8%;Foliar frutales;Foliar;1.7;No;7
+P017;AGRI NOVA;Quantum P-Zn;P2O5: 30%;Zn: 3%;Maíz;Deficiente Zn;0.74;No;7
+P016;SEMBRALIA;P + Micronutrientes;P2O5: 35%;Zn, B, Mo;Leguminosas;Deficiente micro;1.65;No;7
+P020;COMPO;Blaukorn P;P2O5: 40%;Liberación controlada;Ornamentales;Sustratos;1.8;No;7
+P002;HEROGRA;Superfosfato Triple 46%;P2O5: 46%;Ca: 12%;Cereales;Deficiente P;0.54;No;7
+P011;MEDIFER;Ácido Fosfórico 75%;P2O5: 52%;H3PO4 puro;Fertirrigación técnica;Corrección pH;1.275;No;7
+P008;HAIFA;Haifa MKP;P2O5: 52%, K2O: 34%;Soluble 100%;Fertirrigación;Fertirrigación;1.05;No;7
+P009;ICL;Nova MKP;P2O5: 52%, K2O: 34%;Alta pureza;Tomate, pepino;Hidropónico;1.05;No;7
+P010;SQM;Ultrasol MKP;P2O5: 52%, K2O: 34%;Cristalino;Hortícolas;Sin suelo;1.05;No;7
+P025;YARA;MKP Soluble;P2O5: 52%, K2O: 34%;;Melón, sandía;Fertirrigación;1.05;No;7
+P021;FERTICAT;Ácido Fosfórico Técnico;P2O5: 54%;Grado alimentario;Hidropónico;Hidropónico;1.275;No;7
+S002;TESSENDERLO;Azufre Bentonita;S: 90%;Bentonita 10%;Liberación lenta;Deficiente S;0.4;No;5
+S001;FERTIBERIA;Azufre Elemental;S: 99%;Azufre puro;Acidificante;Alcalinos;0.4;No;5
+SI002;AGRI NOVA;Silicio Líquido;SiO2: 25%;K2O: 8%;Resistencia enfermedades;Foliar;1.4;No;5
+SI001;MINERAVI;Harina Basalto;SiO2: 45%;Micronutrientes naturales;Resistencia;Regenerativo;0.25;No;5
+ZN001;COMPO;Fetrilon Zn;Zn: 15%;EDTA quelatado;Maíz, cereales;Deficiente Zn;36;No;9
+ZN002;ICL;Librel Zn;Zn: 15%;EDTA alta solubilidad;Correctivo Zn;pH alto;36;No;9
+ZN003;AGROLEZA;Sulfato Zinc Heptahidratado;Zn: 22%;SO3: 11%;Maíz, trigo;Suelo directo;3.5;No;9
+ZN004;YARA;YaraVita Zn;Zn: 25%;Líquido suspensión;Foliar;Foliar;11;No;9
