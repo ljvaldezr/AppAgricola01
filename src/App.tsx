@@ -71,7 +71,7 @@ function App() {
             
             <YieldInput
               expectedYield={expectedYield}
-              onYieldChange={setExpectedYield}
+              onYieldChange={(yieldValue) => setExpectedYield(yieldValue)}
               cropName={selectedCrop?.name}
             />
 
